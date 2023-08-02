@@ -1,1 +1,1 @@
-https://flight-price-predictor-nd4bvxrvma2tksxzvxzsst.streamlit.app/
+https://flightpricepredictor-fmifbjzevrte8aqtzjc8np.streamlit.app/
